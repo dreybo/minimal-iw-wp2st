@@ -1,0 +1,12 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>
+	{if #params.label}<label>{#params.label}</label>{/if}
+
+	{foreach name="#date_fields" key="j" value="value"}
+		{if #value === 'dd'}{set var="$date_template" value="day"}{/if}
+		{if #value === 'mm'}{set var="$date_template" value="month"}{/if}
+		{if #value === 'yyyy'}{set var="$date_template" value="year"}{/if}
+		{set var="$template" concat="templates/form/editor/widgets/date_,$date_template,.html"}
+		{include file="$template"}
+	{/foreach}
+</p></body></html>

@@ -1,0 +1,7 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>{if #params.label}</p><p>{#params.label}</p>{/if}
+<p>
+	{loop name="#params.values"}
+        <label><input class="radio" type="radio" value="1" checked disabled>{#value}</label>
+    {/loop}
+</p></body></html>

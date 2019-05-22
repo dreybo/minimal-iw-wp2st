@@ -1,0 +1,12 @@
+# prohibit PHP inside
+<Files *.php>
+Deny from All
+</Files>
+
+# faster and safer uploads
+RemoveHandler .ini .sh .bsh .bash .awk .nawk .gawk .csh .var .c .in .h .asc .md5 .sha .sha1 .cgi .pl .php .inc .asp .exe .bin .py .pl .phtml
+RemoveHandler .out .output .overlay .p12 .p5c .pam .pas .patch .phps .php5 .php4 .php3 .pbxproj .pdb .pdf .pem .perl .phar .php .php_cs .phpize .phpt .pingpong .pipelining .pk
+
+<FilesMatch "\.(ini|sh|bsh|bash|awk|nawk|gawk|csh|var|c|in|h|asc|md5|sha|sha1|cgi|pl|php|php*|py|inc|asp|exe|bin|list|py|rb|phtml|tag|info|txt)$">
+ForceType text/plain
+</FilesMatch>

@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div wysija_type="{#type}" class="wysija_block" wysija_position="{#position}">
+    {include file="templates/newsletter/editor/block_controls.html"}
+    <div class="wysija_gallery {#alignment}" wysija_align="{#alignment}">
+
+        <ul style="display: none;" class="wysija_tools"><li><a href="" title="{$i18n.alignmentLeft}" class="alignment-left"><span></span></a></li>
+            <li><a href="" title="{$i18n.alignmentCenter}" class="alignment-center"><span></span></a></li>
+            <li><a href="" title="{$i18n.alignmentRight}" class="alignment-right"><span></span></a></li>
+            <li><a href="" title="{$i18n.remove}" class="remove"><span></span></a></li>
+        </ul><div class="wysija_row clearfix">
+            {foreach name="#items" key="j" value="image"}
+                {include file="templates/newsletter/editor/block_gallery_item.html"}
+            {/foreach}
+        </div>
+    </div>
+</div></body></html>

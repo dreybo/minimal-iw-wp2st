@@ -1,0 +1,741 @@
+EXPORT START: 2019-05-22 03:18:52
+PLUGIN VERSION: 7.0-build0001
+PHP VERSION: 7.0.6
+OS VERSION: Linux 01dab31163c8 4.15.0-50-generic #54-Ubuntu SMP Mon May 6 18:46:08 UTC 2019 x86_64
+WP VERSION: 5.1.1
+WP URL: https://localhost
+WP SITEURL: https://localhost
+WP HOME: https://localhost
+WP ADDRESS: https://localhost
+WP-CLI: NO
+STATIC EXPORT URL: http://localhost/
+PERMALINK STRUCTURE: /http:/islandwines.hk/shop/product-category/product-sample
+SERVER SOFTWARE: nginx/1.8.1
+ACTIVE PLUGINS: 
+google-sitemap-generator/sitemap.php
+im8-exclude-pages/im8-exclude-pages.php
+image-watermark/image-watermark.php
+list-category-posts/list-category-posts.php
+maintenance-page/maintenance-page.php
+seo-ultimate/seo-ultimate.php
+static-html-output-plugin/wp2static.php
+woocommerce/woocommerce.php
+wp-maintenance-mode/wp-maintenance-mode.php
+nextgen-gallery/nggallery.php
+ACTIVE THEME: Twenty Fourteen is version 2.0
+WP2STATIC OPTIONS: 
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: http://localhost
+baseUrl-folder: 
+baseUrl-zip: http://localhost
+basicAuthPassword: *******************
+basicAuthUser: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 1
+crawlPort: 
+crawlUserAgent: 
+createEmptyFavicon: 
+delayBetweenAPICalls: 
+detectArchives: 
+detectAttachments: 1
+detectCategoryPagination: 1
+detectChildTheme: 1
+detectCommentPagination: 
+detectComments: 
+detectCustomPostTypes: 1
+detectFeedURLs: 
+detectHomepage: 
+detectPages: 1
+detectParentTheme: 1
+detectPluginAssets: 
+detectPostPagination: 1
+detectPosts: 1
+detectUploads: 1
+detectVendorCacheDirs: 
+detectWPIncludesAssets: 1
+deployBatchSize: 1
+dontUseCrawlCaching: 1
+includeDiscoveredAssets: 
+excludeURLs: 
+forceHTTPS: 
+parse_css: 1
+redeployOnPostUpdates: 
+removeConditionalHeadComments: 
+removeHTMLComments: 1
+removeCanonical: 
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: var/www/wp-content/uploads,wp-content/uploads
+rename_rules: var/www/wp-content/uploads,wp-content/uploads
+selected_deployment_option: zip
+targetFolder: /usr/src/wordpress/mystaticsite
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useDocumentRelativeURLs: 
+useSiteRootRelativeURLs: 
+SITE URL PATTERNS: https://localhost,https:\/\/localhost
+DESTINATION URL PATTERNS: http://localhost,http:\/\/localhost
+INSTALLED EXTENSIONS: Core, date, libxml, openssl, pcre, sqlite3, zlib, ctype, curl, dom, fileinfo, filter, hash, iconv, json, mbstring, SPL, PDO, pdo_sqlite, session, posix, readline, Reflection, standard, SimpleXML, Phar, tokenizer, xml, xmlreader, xmlwriter, mysqlnd, cgi-fcgi, ftp, imagick, mysqli, zip, Zend OPcache
+NOT SAVING EMTPY FILE /favicon.ico
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/.htaccess
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/05/IWFBBanner-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/05/IWFBBanner-300x191.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/05/IWFBBanner-672x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/05/IWFBBanner.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha1-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha1-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha1-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Cabernet-Kacha1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/CharlesDuRoy-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/CharlesDuRoy-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/CharlesDuRoy-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/CharlesDuRoy-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/CharlesDuRoy-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/CharlesDuRoy.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyBarrica-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyBarrica-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyBarrica-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyBarrica-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyBarrica-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyBarrica.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlySauvignon-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlySauvignon-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlySauvignon-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlySauvignon-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlySauvignon-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlySauvignon.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyTempranillo-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyTempranillo-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyTempranillo-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyTempranillo-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyTempranillo-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ClearlyTempranillo.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/French-Boulevard-Grand-Cuvee-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/French-Boulevard-Grand-Cuvee-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/French-Boulevard-Grand-Cuvee-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/French-Boulevard-Grand-Cuvee-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/French-Boulevard-Grand-Cuvee-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/French-Boulevard-Grand-Cuvee.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardGold-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardGold-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardGold-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardGold-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardGold-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardGold.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardWhite1-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardWhite1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardWhite1-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardWhite1-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardWhite1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardWhite1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardrose-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardrose-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardrose-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardrose-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardrose-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/FrenchBoulevardrose.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaRed-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaRed-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaRed-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaRed-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaRed-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaRed.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaWhite-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaWhite-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaWhite-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaWhite-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaWhite-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/GranVegaWhite.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-1994-Port-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-1994-Port-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-1994-Port-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-1994-Port-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-1994-Port-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-1994-Port.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Rkatsiteli-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Rkatsiteli-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Rkatsiteli-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Rkatsiteli-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Rkatsiteli-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Rkatsiteli.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Saperavi-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Saperavi-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Saperavi-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Saperavi-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Saperavi-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Inkerman-Saperavi.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/InkermanRose-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/InkermanRose-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/InkermanRose-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/InkermanRose-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/InkermanRose-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/InkermanRose.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LestrilleBlanc-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LestrilleBlanc-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LestrilleBlanc-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LestrilleBlanc-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LestrilleBlanc-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LestrilleBlanc.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LorAlChardonnay-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LorAlChardonnay-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LorAlChardonnay-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LorAlChardonnay-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LorAlChardonnay-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/LorAlChardonnay.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MagiaBrunelo-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MagiaBrunelo-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MagiaBrunelo-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MagiaBrunelo-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MagiaBrunelo-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MagiaBrunelo.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAlushtra-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAlushtra-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAlushtra-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAlushtra-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAlushtra-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAlushtra.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAySerez-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAySerez-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAySerez-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAySerez-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAySerez-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraAySerez.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraKokourSurozh-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraKokourSurozh-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraKokourSurozh-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraKokourSurozh-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraKokourSurozh-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraKokourSurozh.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraLivPort-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraLivPort-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraLivPort-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraLivPort-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraLivPort-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraLivPort.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraMadeira-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraMadeira-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraMadeira-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraMadeira-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraMadeira-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraMadeira.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPinotGris-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPinotGris-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPinotGris-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPinotGris-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPinotGris-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPinotGris.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPortSurozh-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPortSurozh-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPortSurozh-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPortSurozh-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPortSurozh-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraPortSurozh.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRedStone-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRedStone-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRedStone-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRedStone-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRedStone-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRedStone.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRoseMus-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRoseMus-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRoseMus-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRoseMus-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRoseMus-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraRoseMus.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraSherry-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraSherry-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraSherry-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraSherry-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraSherry-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MassandraSherry.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutMerlot-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutMerlot-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutMerlot-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutMerlot-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutMerlot-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutMerlot.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutSauv-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutSauv-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutSauv-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutSauv-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutSauv-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MasutSauv.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Merlot-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Merlot-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Merlot-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Merlot-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Merlot-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Merlot.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MoscatoDasti-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MoscatoDasti-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MoscatoDasti-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MoscatoDasti-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MoscatoDasti-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/MoscatoDasti.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Muscat-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Muscat-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Muscat-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Muscat-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Muscat-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Muscat.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVChardonnay-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVChardonnay-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVChardonnay-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVChardonnay-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVChardonnay-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVChardonnay.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVCrianza-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVCrianza-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVCrianza-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVCrianza-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVCrianza-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVCrianza.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVReserva-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVReserva-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVReserva-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVReserva-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVReserva-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/PDVReserva.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarbera-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarbera-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarbera-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarbera-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarbera-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarbera.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarolo-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarolo-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarolo-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarolo-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarolo-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaBarolo.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaNebbiolo-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaNebbiolo-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaNebbiolo-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaNebbiolo-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaNebbiolo-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/ScalettaNebbiolo.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Tola-Nero-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Tola-Nero-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Tola-Nero-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Tola-Nero-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Tola-Nero-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/Tola-Nero.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/VinaMagna-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/VinaMagna-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/VinaMagna-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/VinaMagna-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/VinaMagna-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/VinaMagna.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-1024x195.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-1038x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-300x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-300x57.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-672x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/WPBannerIW.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile-300x253.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile-672x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile-960x576.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/andreyprofiile.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/muscat2-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/muscat2-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/muscat2-550x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/muscat2-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/06/muscat2.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesFooterMailPoet-150x94.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesFooterMailPoet-300x47.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesFooterMailPoet-300x94.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesFooterMailPoet-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesFooterMailPoet.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader-300x185.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader-300x92.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader1-300x185.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader1-300x92.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/IslandWinesMailHeader1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/P61-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/P61-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/P61-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/P61-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/P61-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/P61.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PCR-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PCR-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PCR-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PCR-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PCR-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PCR.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN1-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN1-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN1-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN2-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN2-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN2-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN2-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN2-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PN2.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PSM-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PSM-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PSM-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PSM-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PSM-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PSM.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet-203x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet-600x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet-600x576.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1-203x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1-600x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1-600x576.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/PortugueseTastingNov27MailPoet1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tola-Syrah-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tola-Syrah-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tola-Syrah-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tola-Syrah-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tola-Syrah-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tola-Syrah.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Albano-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Albano-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Albano-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Albano-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Albano-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Albano.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Sangiovese-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Sangiovese-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Sangiovese-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Sangiovese-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Sangiovese-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Sangiovese.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Trebbiano-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Trebbiano-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Trebbiano-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Trebbiano-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Trebbiano-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/07/Tremonti-Trebbiano.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PoggiodeV-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PoggiodeV-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PoggiodeV-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PoggiodeV-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PoggiodeV-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PoggiodeV.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PuntoRosa-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PuntoRosa-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PuntoRosa-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PuntoRosa-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PuntoRosa-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/PuntoRosa.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/Valdobbiadene-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/Valdobbiadene-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/Valdobbiadene-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/Valdobbiadene-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/Valdobbiadene-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/08/Valdobbiadene.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-1038x576.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-203x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-600x883.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-672x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-695x1024.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2014/11/PortuTastingWork.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/01/Catalogue-Polugar-Jan15.pdf
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/Brunelli-Valpolicella-Superiore-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/Brunelli-Valpolicella-Superiore-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/Brunelli-Valpolicella-Superiore-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/Brunelli-Valpolicella-Superiore-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/Brunelli-Valpolicella-Superiore-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/Brunelli-Valpolicella-Superiore.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/LorAlBarbera-130x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/LorAlBarbera-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/LorAlBarbera-233x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/LorAlBarbera-233x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/LorAlBarbera-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2015/04/LorAlBarbera.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-1024x506.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-1024x506@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-150x150.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-150x150@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-257x388.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-257x388@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-300x148.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-300x148@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-300x300.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-300x300@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-373x546.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-373x546@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-380x380.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-380x380@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-445x445.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-445x445@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-540x350.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-540x350@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-560x450.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-560x450@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-600x296.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-600x296@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-900x300.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-900x300@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-90x90.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo-90x90@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogo.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-150x150@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-257x267.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-257x267@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-300x148.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-300x148@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-300x267.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-300x267@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-373x267.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-373x267@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-380x267.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-380x267@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-445x267.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-445x267@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1-90x90@2x.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogoWp1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-1024x506.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-1024x506@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-150x150.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-150x150@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-257x388.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-257x388@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-300x148.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-300x148@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-300x300.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-300x300@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-373x546.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-373x546@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-380x380.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-380x380@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-445x445.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-445x445@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-540x350.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-540x350@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-560x450.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-560x450@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-600x296.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-600x296@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-900x300.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-900x300@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-90x90.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp-90x90@2x.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWindesRedBlackLogowp.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-1024x682.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-1024x682.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-1038x576.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-1038x576.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-150x150.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-300x199.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-300x199.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-300x300.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-600x399.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-600x399.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-672x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-672x372.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack-90x90.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-1024x682.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-1038x576.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-300x199.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-300x300.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-600x399.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-672x372.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2017/04/IslandWinesLogoRedBlack1.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-1024x195.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-1038x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-150x150.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-257x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-300x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-300x57.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-672x240.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-768x146.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW-90x90.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/2019/05/WPBannerIW.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wc-logs/.htaccess
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wc-logs/fatal-errors-1feb53be6a647241143745125867b92b.log
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wc-logs/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wc-logs/wc_db_updates-e55183ed6fc8e33b09d1efb825e21683.log
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/woocommerce_uploads/.htaccess
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/woocommerce_uploads/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/01/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/01/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/01/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/01/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/02/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/02/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/02/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/02/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/03/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/03/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/03/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/03/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/04/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/04/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/04/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/04/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/06/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/06/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/06/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/06/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/07/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/07/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/07/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/07/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/08/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/08/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/08/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/08/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/09/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/09/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/09/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/09/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/10/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/10/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/10/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/10/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/11/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/11/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/11/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/11/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/12/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/12/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/12/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/12/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/13/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/13/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/13/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/13/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/14/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/14/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/14/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/14/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/15/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/15/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/15/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/15/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/16/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/16/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/16/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/16/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/17/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/17/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/17/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/17/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/18/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/18/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/18/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/18/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/19/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/19/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/19/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/19/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/20/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/20/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/20/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/20/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/21/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/21/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/21/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/21/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/22/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/22/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/22/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/22/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/23/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/23/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/23/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/23/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/24/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/24/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/24/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/24/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/medium/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/01/facebook.gif
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/01/google.gif
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/01/linkedin.gif
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/01/twitter.gif
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/02/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/02/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/02/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/02/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/03/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/03/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/03/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/03/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/04/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/04/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/04/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/04/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/05/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/05/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/05/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/05/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/06/facebook.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/06/google.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/06/linkedin.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/06/twitter.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/bookmarks/small/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/artcore-white.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/artcore.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/bar.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/business.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/business2.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/cafe.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/drop1.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/drop2.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/drop3.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/flashback.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/juicy.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/plus.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/school.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/sketchy.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/solid.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/dividers/vintage.png
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/temp/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/themes/default/index.html
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/themes/default/screenshot.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/themes/default/style.css
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/themes/default/thumbnail.jpg
+BAD RESPONSE STATUS (404): https://localhost/var/www/wp-content/uploads/wysija/themes/index.html
+Crawling URLs phase completed

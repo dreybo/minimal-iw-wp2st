@@ -1,0 +1,18 @@
+input.jlsuggest, .jls_text_dest {width: 100%;}
+input.jls_loading {background-image: url("loading.gif") !important;background-repeat: no-repeat;background-position: 98% center;}
+.jls_text_dest {border: 1px solid #c0cdff;border-radius: 3px;background-color: #e0e7ff;position: relative;margin: 1px -1px;padding: 3px 0 1px;}
+.jlsuggest-disabled {background-color: #ffe0e0;border-color: #ffc1c1;}
+.jls_text_dest_text {cursor: default;padding: 0 0 0 5px;}
+.jls_text_dest_text .type {color: #666;font-variant: small-caps;font-size: smaller;}
+.jls_text_dest_close {position: absolute;top: 0;right: 0;cursor: pointer;padding: 3px 10px 1px;color: black;text-decoration: none;}
+.jls_text_dest_close:hover, .jls_text_dest_close:focus {color: red;}
+.jls_results {padding: 0;margin: 0;list-style: none;position: absolute;z-index: 10000;display: none;border: 1px solid #dfdfdf;background-color: white;border-radius: 4px;}
+.jls_results li {margin: 0;padding: 2px 5px;min-width: 100px;white-space: nowrap;text-align: left;}
+.jls_results li.jls_header {margin-top: 10px;background-color: #c0cdff;text-align: center;font-weight: bold;cursor: default;}
+.jls_results li.jls_header:first-child {margin-top: 0;}
+.jls_over {cursor: pointer;}
+.jls_match {background-color: yellow;color: black;}
+.jls_over {background-color: #e0e7ff;}
+.jls_results li {color: #101010;}
+input.jlsuggest:-moz-placeholder {background-color: #e0e7ff;border-color: #c0cdff;color: black;}
+input.jlsuggest:-ms-input-placeholder {background-color: #e0e7ff;border-color: #c0cdff;color: black;}

@@ -1,0 +1,2 @@
+#su-meta-descriptions .su-meta-edit-table .su-description textarea {height: 2.4em;resize: none;-moz-transition: height .2s;-webkit-transition: height .2s;-o-transition: height .2s;transition: height .2s;}
+#su-meta-descriptions .su-meta-edit-table .su-description textarea:focus {height: 10em;}

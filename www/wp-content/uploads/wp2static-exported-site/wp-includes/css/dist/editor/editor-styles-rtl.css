@@ -1,0 +1,7 @@
+body {font-family: "Noto Serif",serif;font-size: 16px;line-height: 1.8;color: #191e23;}
+p {font-size: 16px;line-height: 1.8;}
+ul, ol {margin: 0;padding: 0;}
+ul {list-style-type: disc;}
+ol {list-style-type: decimal;}
+ul ul, ol ul {list-style-type: circle;}
+.mce-content-body {line-height: 1.8;}

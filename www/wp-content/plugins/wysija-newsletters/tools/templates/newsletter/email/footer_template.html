@@ -1,0 +1,7 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>{if ! $background_color}{set var="$background_color" value="$styles.footer.background"}{/if}
+</p><table class="wysija_footer" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td class="wysija_footer_container" height="1" align="{#image.alignment}" style="font-size:1px;line-height:1%;mso-line-height-rule:exactly;">
+            {if #image.url}<a class="wysija_image_link" href="" style="height:{#image.height}px;width:{#image.width}px;">{/if}
+            <img class="image_fix" width="{#image.width}" height="{#image.height}" src="" border="0" alt="{#image.alt|url_decode|htmlentities}" style="width:{#image.width}px; height:{#image.height}px;">{if #image.url}</a>{/if}
+        </td>
+    </tr></table></body></html>

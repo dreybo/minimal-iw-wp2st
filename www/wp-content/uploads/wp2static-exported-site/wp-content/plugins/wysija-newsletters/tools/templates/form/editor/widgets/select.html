@@ -1,0 +1,9 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>
+	{if !#params.label_within && #params.label}<label>{#params.label}</label>{/if}
+	<select>
+		{if #params.label_within && #params.label}<option value="">{#params.label}</option>{/if}
+        {loop name="#params.values"}
+        <option value="{#value}" selected>{#value}</option>
+        {/loop}
+    </select></p></body></html>

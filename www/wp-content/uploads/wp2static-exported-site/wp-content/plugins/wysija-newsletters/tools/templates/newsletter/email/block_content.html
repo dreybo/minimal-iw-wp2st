@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>{if ! $background_color}{set var="$background_color" value="$styles.body.background"}{/if}
+</p><table class="wysija_block" width="100%" cellspacing="0" cellpadding="0" border="0" align="left"><tr>
+    	{if ! #text && #image}
+    		<td class="wysija_content_container" align="left">
+    			<table class="wysija_gallery_table {#alignment}" width="{#image.width}" cellspacing="0" cellpadding="0" border="0" align="{#alignment}"><tr><td class="wysija_cell_container" width="{#image.width}" height="{#image.height}" valign="top">
+							{if #image.url}<a class="wysija_image_link" href="" style="height:{#image.height}px;width:{#image.width}px;">{/if}<img class="image_fix" width="{#image.width}" height="{#image.height}" src="" border="0" alt="{#image.alt|url_decode|htmlentities}" style="width:{#image.width}px; height:{#image.height}px;">{if #image.url}</a>{/if}
+						</td>
+					</tr></table></td>
+		{/if}
+		{if #text}
+			<td class="wysija_content_container {#alignment}" align="right" dir="rtl">
+				{include file="templates/newsletter/email/block_image.html"}
+	        	{include file="templates/newsletter/email/block_text.html"}
+        	</td>
+		{/if}
+    </tr></table></body></html>

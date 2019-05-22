@@ -1,0 +1,8 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>{if #params.label}</p><p>{#params.label}</p>{/if}
+{if ! #params.values}<p class="wysija_warning">{$i18n.list_cannot_be_empty}</p>{/if}
+{loop name="#params.values"}
+    <p>
+        <input class="checkbox" type="checkbox" data-list-id="{#list_id}" disabled> {$lists|index:{#list_id}}
+    </p>
+{/loop}</body></html>
