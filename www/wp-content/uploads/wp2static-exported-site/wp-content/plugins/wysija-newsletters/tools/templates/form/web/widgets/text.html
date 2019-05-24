@@ -1,9 +1,0 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p class="wysija-paragraph">
-    {if ! #params.label_within}<label>{#params.label}{if #params.required} <span class="wysija-required">*</span>{/if}</label>{/if}
-    <input type="text" name="wysija[user][{#field}]" class="wysija-input {$validation}" title="{#params.label|html_value}" value="{if #value}{#value|html_value}{/if}">
-    {if ! $preview}
-    <span class="abs-req">
-        <input type="text" name="wysija[user][abs][{#field}]" class="wysija-input validated[abs][{#field}]" value=""></span>
-    {/if}
-</p></body></html>

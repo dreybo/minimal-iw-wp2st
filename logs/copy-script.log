@@ -1,0 +1,8 @@
+Removing network minimal-iw-wp2st_default
+Network minimal-iw-wp2st_default not found.
+rm: cannot remove 'www': No such file or directory
+total 100K
+drwxr-xr-x 2 www-data www-data 4.0K May 24 10:40 .
+drwxr-xr-x 5 www-data www-data 4.0K May 24 10:40 ..
+-rw-rw-rw- 1 www-data www-data  83K May 23 06:03 editor.css
+-rw-rw-rw- 1 www-data www-data 6.5K May 23 06:03 style.css

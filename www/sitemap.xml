@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="May 22, 2019 3:18 am" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
+<!-- generated-on="May 24, 2019 2:34 am" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>http://localhost/sitemap-misc.xml</loc>
-		<lastmod>2016-08-18T07:24:29+00:00</lastmod>
+		<lastmod>2019-05-24T02:32:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-tax-product_cat.xml</loc>
-		<lastmod>2016-08-18T07:24:29+00:00</lastmod>
+		<lastmod>2019-05-24T02:32:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-pt-product-2014-07.xml</loc>
-		<lastmod>2015-03-19T02:51:41+00:00</lastmod>
+		<lastmod>2019-05-24T02:31:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-pt-product-2014-06.xml</loc>
-		<lastmod>2016-08-18T07:24:29+00:00</lastmod>
+		<lastmod>2019-05-24T02:32:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-pt-page-2016-06.xml</loc>
@@ -22,7 +22,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-pt-page-2015-03.xml</loc>
-		<lastmod>2015-03-19T01:45:20+00:00</lastmod>
+		<lastmod>2019-05-23T06:31:57+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-pt-page-2015-01.xml</loc>
@@ -30,6 +30,6 @@
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/sitemap-pt-page-2014-06.xml</loc>
-		<lastmod>2016-06-06T11:35:43+00:00</lastmod>
+		<lastmod>2019-05-23T07:03:31+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- <p>Please edit wp-db.inc.php in wp-includes and set SAVEQUERIES to true if you want to see the queries.</p> --> <!-- Request ID: 64eb9b08d22d57d7e12f6dc7f82e48c8; Queries for sitemap: 11; Total queries: 34; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- <p>Please edit wp-db.inc.php in wp-includes and set SAVEQUERIES to true if you want to see the queries.</p> --> <!-- Request ID: a79189016ee07e7230666d83f3a47b7e; Queries for sitemap: 10; Total queries: 23; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->

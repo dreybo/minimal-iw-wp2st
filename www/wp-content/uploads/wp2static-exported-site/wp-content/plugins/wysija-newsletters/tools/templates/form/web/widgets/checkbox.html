@@ -1,8 +1,0 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p class="wysija-paragraph">
-	{if #params.label}<label>{#params.label}</label>{/if}
-	<input type="hidden" name="{#field_prefix}[{#field}]" value="0">
-    {loop name="#params.values"}
-    	<label class="wysija-checkbox-label"><input type="checkbox" class="wysija-checkbox {$validation}" name="{$field_prefix}[{$field}]" value="1">{#value}</label>
-    {/loop}
-</p></body></html>

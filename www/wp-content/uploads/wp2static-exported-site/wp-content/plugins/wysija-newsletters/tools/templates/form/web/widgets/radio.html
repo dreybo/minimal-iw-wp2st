@@ -1,7 +1,0 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p class="wysija-paragraph">
-	{if #params.label}<label>{#params.label}</label>{/if}
-    {loop name="#params.values"}
-    	<label class="wysija-radio-label"><input type="radio" class="wysija-radio {$validation}" name="{$field_prefix}[{$field}]" value="{#value}">{#value}</label>
-    {/loop}
-</p></body></html>
