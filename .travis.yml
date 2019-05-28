@@ -1,0 +1,17 @@
+sudo: required
+services:
+  - docker
+
+before_install:
+  - docker build -t kthrix/react-test -f ./client/Dockerfile.dev ./client
+
+script:
+  - docker run kthrix/react-test npm test -- --coverage
+
+after_success:
+  - docker build -t kthrix/minimal-iw-wp2st ./minimal-iw-wp2st_nginx
+  # Log into the docker CLI
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+  # Take those images, and push them to docker hub
+  - docker push dreybo/minimal-iw-wp2st
+

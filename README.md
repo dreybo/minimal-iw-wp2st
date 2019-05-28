@@ -72,3 +72,4 @@ Version 1.1
  * copy-files.sh
 * Added integration with Dockerhub
  * Moved Dockerfile and other files from /image to .
+# minimal-iw-wp2st

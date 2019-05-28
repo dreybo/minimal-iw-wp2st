@@ -1,0 +1,19 @@
+{
+  "AWSEBDockerrunVersion": 2,
+
+  "containerDefinitions": [
+    {
+      "name": "minimal-iw-wp2st_nginx",
+      "image": "dreybo/minimal-iw-wp2st",
+      "hostname": "minimal-iw-wp2st_nginx",
+      "essential": true,
+      "portMappings": [
+        {
+          "hostPort": 80,
+          "containerPort": 80
+        }
+      ],
+      "memory": 128
+    }
+  ]
+}

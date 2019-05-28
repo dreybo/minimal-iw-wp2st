@@ -1,0 +1,18 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "dreybo/minimal-iw-wp2st",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "80",
+      "HostPort":80"
+    }
+  ],
+  "Volumes": [
+    {
+      "HostDirectory": "./www",
+      "ContainerDirectory": "/www-data"
+  }
+}

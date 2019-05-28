@@ -11,4 +11,6 @@ COPY localhost.pem /etc/ssl/localhost/
 
 RUN mkdir /www-data
 
+EXPOSE 80
+
 CMD ["nginx"]
